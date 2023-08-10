@@ -1,6 +1,6 @@
 # ExamSeatingArrangement System Abstract
 
-“Exam Seating Arrangement” Application was developed educational
+“Exam Seating Arrangement” Application was developed for educational
 institutional students to simplify examination hall allotment and seating arrangement.
 It facilitates to access the examination information of a particular student in a
 particular class. The purpose of developing exam hall seating arrangement system is
